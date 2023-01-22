@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um App para ajudar a controlar os seus hábitos diários.
 
+- [Visite o projeto online] (https://rodrigogfl.github.io/nlwsetup)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/AxaKonFhfyFz6DbijrXr19/Habits-(e)-(Community)?node-id=75%3A567&t=iJAKrVNLz9aMw6xX-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
